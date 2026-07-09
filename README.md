@@ -1,6 +1,6 @@
 # Hi there, I'm Auroshaa 👋 
 
-# I'm a Junior SDV Consultant - Cyber Security!!
+# I'm a Research Engineer – SDV CoE - Cyber Security!!
 
 # 👨‍💻 Cyber Security & Automotive Security Enthusiast  
 
